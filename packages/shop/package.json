@@ -2,9 +2,6 @@
   "name": "@pick-bazar/shop",
   "version": "3.0.3",
   "private": true,
-"engines": {
-  "node": "22.x"
-},
   "scripts": {
     "dev": "next",
     "build": "next build",
