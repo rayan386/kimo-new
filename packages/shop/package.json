@@ -8,6 +8,9 @@
     "start": "next start",
     "shop-dev": "next"
   },
+    "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "@apollo/react-hooks": "3.1.5",
     "@apollo/react-ssr": "3.1.5",
